@@ -7,7 +7,7 @@
 #include <EEPROM.h>
 
 #include "SRF05.h"
-#include <SimpleKalmanFilter.h>
+// #include <SimpleKalmanFilter.h>
 
 TFT_eSPI tft = TFT_eSPI();
 
@@ -170,7 +170,7 @@ uint16_t keyColor3[15] = {TFT_RED, TFT_BROWN, TFT_DARKGREEN,
 unsigned long lastFrame = millis();
 
 SRF05 SRF(trigger, echo);
-SimpleKalmanFilter simpleKalmanFilter(2, 2, 0.01);
+// SimpleKalmanFilter simpleKalmanFilter(2, 2, 0.01);
 
 // Invoke the TFT_eSPI button class and create all the button objects
 TFT_eSPI_Button key[15], key1[15],key2[15],key3[15];
