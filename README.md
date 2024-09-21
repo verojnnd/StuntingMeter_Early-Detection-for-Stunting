@@ -7,7 +7,9 @@ This system using some of component below:
 2. Ultrasonic Sensor HY-SRF05
 3. Voltage Sensor
 4. ESP32 Devkit V1
-5. Battery Sony VTC6
+5. SD Card and   SD Card Module
+6. RTC Module
+7. Battery Sony VTC6
 
 
 nb: I can't share the "TBU.h", "BBU.h", "BBTB.h", and "IMTU.h" file because those files contain important data from World Health Organization (WHO)
