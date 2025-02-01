@@ -2,7 +2,7 @@
 ![IMG_20240621_121224](https://github.com/user-attachments/assets/b605698f-77f5-4c64-b6dd-2370f6bd2488)
 ![IMG_20240628_054827](https://github.com/user-attachments/assets/bc50f201-6d05-4219-9776-a0ceb184bf72)
 
-This system is used for the early detection of stunting in toddlers with age calculation from date time by RTC and birthdate from LCD input, height calculation by ultrasonic sensor, weight value by LCD input, callable data from SD Card (so once the toddlers even add data to the system, they will not add any important data second times such as birthdate, address, parent's name, parent's phone, etc), and stunting calculation using Standard Data from World Health Organization (WHO) which connected with printer thermal to print toddler's nutritional status data.
+This system is used for the early detection of stunting in toddlers with age calculation from date time by RTC and birthdate from LCD input, height calculation by ultrasonic sensor, weight value by LCD input, callable data from SD Card (so once the toddlers even add data to the system, they will not add any important data second times such as birthdate, address, parent's name, parent's phone number, etc), and stunting calculation using Standard Data from World Health Organization (WHO) which connected with printer thermal to print toddler's nutritional status data.
 
 This system uses some of the components below: 
 
